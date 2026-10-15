@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Flow Personal updates</title><link>https://github.com/AgarwalAarush/Flow-Personal-Releases</link><item><title>Flow Personal 1.1.0</title><sparkle:version>110</sparkle:version><sparkle:shortVersionString>1.1.0</sparkle:shortVersionString><sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion><description sparkle:format="plain-text">A calmer native workspace for projects, tasks, and named focus sessions. Local development distribution; not Apple notarized.</description><enclosure url="https://github.com/AgarwalAarush/Flow-Personal-Releases/releases/download/v1.1.0/Flow-Personal-1.1.0.dmg" length="6639493" type="application/octet-stream" sparkle:edSignature="raPPeDYvy2Bd1Rl9u4GfpRlFnqgiNwgHmg3ovPwmUqMzPUjHomS2l7BRO5Yk96x6QwsP2AEg/pxZDXHGE+L3Aw=="></enclosure></item></channel></rss><!-- sparkle-signatures:
+edSignature: Tmu4PiS2h1PRhEKAv8Zm7O0IYCY+HYNRl3Zo/YYsusqjavLj012KG0kNdofENb565RpGps6/k/KvBw4oqsX0Dg==
+length: 1193
+-->
