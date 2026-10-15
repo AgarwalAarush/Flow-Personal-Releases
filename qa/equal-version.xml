@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Flow Personal updates</title><link>https://github.com/AgarwalAarush/Flow-Personal-Releases</link><item><title>Flow Personal 1.0.2</title><sparkle:version>101</sparkle:version><sparkle:shortVersionString>1.0.2</sparkle:shortVersionString><sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion><description sparkle:format="plain-text">Named focus sessions, a compact sage timer, and signed updates. This app is not Apple notarized.</description><enclosure url="https://github.com/AgarwalAarush/Flow-Personal-Releases/releases/download/v1.0.2/Flow-Personal-1.0.2.dmg" length="5063228" type="application/octet-stream" sparkle:edSignature="n/xpDVvpbWKFBcrtu01WnblNksUi83YUQ3TBirp9Wmt2Zn87mi8L+cJDvKnwQ0ggT0KvR9U8x02CBBbIga+GCw=="></enclosure></item></channel></rss><!-- sparkle-signatures:
+edSignature: OKe8gdtldFzr2FRbmTcVk9Gyp1G9lNwWUpi0KlUT14aY6MyxAjpA6aacdtnyo399zt98pH8PgI5HhuKnIJV1AA==
+length: 1164
+-->
