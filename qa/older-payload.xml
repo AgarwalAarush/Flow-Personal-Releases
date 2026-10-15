@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Flow Personal updates</title><link>https://github.com/AgarwalAarush/Flow-Personal-Releases</link><item><title>Controlled older-payload rejection fixture</title><sparkle:version>103</sparkle:version><sparkle:shortVersionString>1.0.2</sparkle:shortVersionString><sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion><description sparkle:format="plain-text">Named focus sessions, a compact sage timer, and signed updates. This app is not Apple notarized.</description><enclosure url="https://github.com/AgarwalAarush/Flow-Personal-Releases/releases/download/update-qa-102/older-payload-100.dmg" length="3402225" type="application/octet-stream" sparkle:edSignature="v0Bd+rABAQtupLb3aSULBmFa+537eQ8mHcEEvsnUujt5ACaZg0XxWrLoOTBl0Upw+JIK0cCQhXoHUEjWu2X9Cg=="></enclosure></item></channel></rss><!-- sparkle-signatures:
+edSignature: XB9uRNnN55bVEvD5qDtH/3GHxahgp0xluuEIT+9LA4yyFLQIUvDKFM/LR43oRvmmJQIIak8AXo/N9jL3Q5JvBA==
+length: 1192
+-->
