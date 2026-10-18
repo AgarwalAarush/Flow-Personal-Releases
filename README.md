@@ -13,12 +13,15 @@ Statistics, Blocking and Settings stay inside Workspace with integrated native
 window controls and consistent menus. Start focus responds visibly on hover;
 session titles keep their geometry. Blocking includes searchable app selection
 and website controls.
+Timer focus indicators follow the window receiving input. Title hover uses a small
+edit cue, with clearer native typography throughout the workspace. Timeline can
+reveal a task’s dates at narrow widths while keeping its scale and search.
 Choose Compact explicitly; its progress fills across the entire rounded window.
 
 This repository distributes only installers and signed update feeds. Application
 source is maintained privately.
 
-[Download Flow 1.3.5](https://github.com/AgarwalAarush/Flow-Personal-Releases/releases/tag/v1.3.5).
+[Download Flow 1.3.6](https://github.com/AgarwalAarush/Flow-Personal-Releases/releases/tag/v1.3.6).
 
 Flow Personal.app displays as **Flow** and coexists with Yugen GmbH's Flow.app.
 It is an independent personal app by Aarush Agarwal, without vendor affiliation.
