@@ -16,12 +16,16 @@ and website controls.
 Timer focus indicators follow the window receiving input. Title hover uses a small
 edit cue, with clearer native typography throughout the workspace. Timeline can
 reveal a task’s dates at narrow widths while keeping its scale and search.
+House-style charcoal surfaces, ice-blue selections, native system typography and
+semantic accents now connect all main surfaces. Selected-control keyboard focus
+stays clear in both appearances. New preferences default to Dark; saved choices
+are preserved.
 Choose Compact explicitly; its progress fills across the entire rounded window.
 
 This repository distributes only installers and signed update feeds. Application
 source is maintained privately.
 
-[Download Flow 1.3.6](https://github.com/AgarwalAarush/Flow-Personal-Releases/releases/tag/v1.3.6).
+[Download Flow 1.3.7](https://github.com/AgarwalAarush/Flow-Personal-Releases/releases/tag/v1.3.7).
 
 Flow Personal.app displays as **Flow** and coexists with Yugen GmbH's Flow.app.
 It is an independent personal app by Aarush Agarwal, without vendor affiliation.
