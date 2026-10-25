@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Aion updates</title><link>https://github.com/AgarwalAarush/Flow-Personal-Releases</link><item><title>Aion 1.3.11</title><sparkle:version>141</sparkle:version><sparkle:shortVersionString>1.3.11</sparkle:shortVersionString><sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion><description sparkle:format="plain-text">Persistent timer windows, hover controls, a ticking menu-bar countdown and consistent Full/Compact shortcuts. Local development distribution; not Apple notarized.</description><enclosure url="https://github.com/AgarwalAarush/Flow-Personal-Releases/releases/download/v1.3.11/Aion-1.3.11.dmg" length="11731364" type="application/octet-stream" sparkle:edSignature="ubwReT4/shwBwq2atIQvMh/5Gn2pjBAx9YxBMr0WUvOXcOxORul15tRjv45LFqW3DThyMsw8fqVjMKYQ40vWAA=="></enclosure></item></channel></rss><!-- sparkle-signatures:
+edSignature: jKtHjp0LMd2PVtowJUp3vDX9qZuI5NWqTHK2pcZWsOAbVddr4AU7iB21fH8lBGgobtIc9+oxytW32ll4ChIbDw==
+length: 1208
+-->
