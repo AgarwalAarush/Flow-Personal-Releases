@@ -23,7 +23,13 @@ hide it. Drag the empty top bar or clock to move the full timer; drag the compac
 clock to move the compact timer. Keyboard controls remain available, with quiet
 hover feedback and no extra focus outlines.
 
-[Download Aion 1.3.11](https://github.com/AgarwalAarush/Flow-Personal-Releases/releases/tag/v1.3.11).
+[Download Aion 1.3.12](https://github.com/AgarwalAarush/Flow-Personal-Releases/releases/tag/v1.3.12).
+
+Workspace uses a compact titlebar and a top-right view switcher that opens on
+hover or click. Compact timer titles are read-only; edit names in the Full timer
+without an input border or text-position jump. Settings uses tighter rows and
+consistent pill states; Statistics has a clearer chart and lighter history.
+Page content updates independently of the countdown.
 
 Aion was previously called Flow Personal. Existing projects, tasks, session
 history, settings and update identity carry forward. New downloads contain
