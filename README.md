@@ -12,12 +12,18 @@ app icon accompanies an original soft completion chime. Enable **Play a sound**
 in Settings → General; the speaker button previews it independently of alerts.
 Existing sound and appearance choices are preserved.
 
-Skip, Restart and Statistics are directly available in the timer’s top bar. Drag
-the empty top bar or clock to move the full timer; drag the compact clock to move
-the compact timer. In-app branding uses the clean original artwork. Controls stay quiet without
-extra focus outlines; keyboard navigation and shortcuts remain available.
+The timer stays visible when another app takes focus. Hover over the full timer
+to reveal Close, Skip, Restart, Statistics and session actions. Close hides the
+window while the session keeps running. The menu bar shows a ticking countdown
+without a second icon; click it to show or hide the timer, or right-click for
+actions. Reopening Aion restores your chosen timer size.
 
-[Download Aion 1.3.10](https://github.com/AgarwalAarush/Flow-Personal-Releases/releases/tag/v1.3.10).
+Use **⌘1** to show the timer, **⌘2** to switch Full ↔ Compact, and **⌘W** to
+hide it. Drag the empty top bar or clock to move the full timer; drag the compact
+clock to move the compact timer. Keyboard controls remain available, with quiet
+hover feedback and no extra focus outlines.
+
+[Download Aion 1.3.11](https://github.com/AgarwalAarush/Flow-Personal-Releases/releases/tag/v1.3.11).
 
 Aion was previously called Flow Personal. Existing projects, tasks, session
 history, settings and update identity carry forward. New downloads contain
