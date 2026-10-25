@@ -14,9 +14,10 @@ Existing sound and appearance choices are preserved.
 
 Skip, Restart and Statistics are directly available in the timer’s top bar. Drag
 the empty top bar or clock to move the full timer; drag the compact clock to move
-the compact timer. In-app branding uses the clean original artwork.
+the compact timer. In-app branding uses the clean original artwork. Controls stay quiet without
+extra focus outlines; keyboard navigation and shortcuts remain available.
 
-[Download Aion 1.3.9](https://github.com/AgarwalAarush/Flow-Personal-Releases/releases/tag/v1.3.9).
+[Download Aion 1.3.10](https://github.com/AgarwalAarush/Flow-Personal-Releases/releases/tag/v1.3.10).
 
 Aion was previously called Flow Personal. Existing projects, tasks, session
 history, settings and update identity carry forward. New downloads contain
