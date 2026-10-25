@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Aion updates</title><link>https://github.com/AgarwalAarush/Flow-Personal-Releases</link><item><title>Aion 1.3.9</title><sparkle:version>139</sparkle:version><sparkle:shortVersionString>1.3.9</sparkle:shortVersionString><sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion><description sparkle:format="plain-text">Visible Skip, Restart and Statistics timer shortcuts, draggable timer header and clock, and clean in-app icon artwork. Local development distribution; not Apple notarized.</description><enclosure url="https://github.com/AgarwalAarush/Flow-Personal-Releases/releases/download/v1.3.9/Aion-1.3.9.dmg" length="11728440" type="application/octet-stream" sparkle:edSignature="4XrYH8dufolE66DhzOYEvTWyNAAqMFN4F8TuhVRpHFDqjCJZ6pMhRDXM52TIINT05MmkAyV+njVmUOCz06EsBg=="></enclosure></item></channel></rss><!-- sparkle-signatures:
+edSignature: Q7dRowyt1X1MJfTvPtrg9Y0AaPQ/UlyAZGkwco6Sl6dhqP2vjvDfB+1gjosJ6lMKTA7VkXiVpzfJQvDqhLydAg==
+length: 1213
+-->
