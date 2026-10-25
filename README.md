@@ -1,39 +1,33 @@
-# Flow Personal
+# Aion
 
-Native macOS workspace with projects, tasks, named focus sessions and a compact
-floating timer. Plan in list, board, table, calendar and timeline views;
-projects include an overview, brief and deadline. Task-linked focus history
-and local subtasks keep planning connected to your next session.
-Project Overview puts upcoming tasks first, with compact totals and always-visible search.
-Empty projects and Statistics offer clear next actions, and Calendar reveals full
-task names from both the pointer and keyboard. Editors use calmer spacing.
-Search stays consistent across planning views; timer controls support native
-keyboard traversal and clear focus indicators. Validation stays inside its editor.
-Statistics, Blocking and Settings stay inside Workspace with integrated native
-window controls and consistent menus. Start focus responds visibly on hover;
-session titles keep their geometry. Blocking includes searchable app selection
-and website controls.
-Timer focus indicators follow the window receiving input. Title hover uses a small
-edit cue, with clearer native typography throughout the workspace. Timeline can
-reveal a task’s dates at narrow widths while keeping its scale and search.
-House-style charcoal surfaces, ice-blue selections, native system typography and
-semantic accents now connect all main surfaces. Selected-control keyboard focus
-stays clear in both appearances. New preferences default to Dark; saved choices
-are preserved.
-Choose Compact explicitly; its progress fills across the entire rounded window.
+A native macOS app for focused work and personal planning. A quiet timer, an
+explicit compact view and one workspace for projects, tasks, Statistics,
+Blocking and Settings. Plan in list, board, table, calendar and timeline views;
+start focus directly from a task and keep its recorded time through renames.
 
-This repository distributes only installers and signed update feeds. Application
-source is maintained privately.
+Charcoal surfaces, ice-blue selections, useful action icons and restrained
+transitions keep the interface simple. Light and dark appearances, reduced
+motion and native keyboard controls are supported. The new charcoal-and-mint
+app icon accompanies an original soft completion chime. Enable **Play a sound**
+in Settings → General; the speaker button previews it independently of alerts.
+Existing sound and appearance choices are preserved.
 
-[Download Flow 1.3.7](https://github.com/AgarwalAarush/Flow-Personal-Releases/releases/tag/v1.3.7).
+[Download Aion 1.3.8](https://github.com/AgarwalAarush/Flow-Personal-Releases/releases/tag/v1.3.8).
 
-Flow Personal.app displays as **Flow** and coexists with Yugen GmbH's Flow.app.
-It is an independent personal app by Aarush Agarwal, without vendor affiliation.
+Aion was previously called Flow Personal. Existing projects, tasks, session
+history, settings and update identity carry forward. New downloads contain
+**Aion.app**. Existing automatic updates preserve their installation path while
+using Aion's new name and icon. It coexists with Yugen GmbH's Flow.app and is an
+independent personal app by Aarush Agarwal, without vendor affiliation.
+
+This repository distributes installers and signed update feeds only.
+Application source remains private. Requires macOS 14 or later; universal Intel
+and Apple Silicon app.
 
 Downloads are ad hoc signed and **not Apple Developer ID signed or notarized**.
-Sparkle Ed25519 signatures authenticate update feeds and archives; they do not
-provide Apple notarization or bypass Gatekeeper. Respect macOS security warnings.
-Do not disable Gatekeeper or remove quarantine.
+Sparkle Ed25519 signatures authenticate update feeds and archives. Respect macOS
+security warnings; do not disable Gatekeeper or remove quarantine.
 
-Automatic update checking and installation default off. Focus sessions postpone
-update relaunch until paused or finished. The canonical feed is `appcast.xml`.
+Automatic update checks and installation default off. Active focus postpones
+update relaunch until paused or finished. The existing canonical feed remains
+`appcast.xml`.
