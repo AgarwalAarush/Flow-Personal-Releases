@@ -26,13 +26,13 @@ hide it. Drag the empty top bar or clock to move the full timer; drag the compac
 clock to move the compact timer. Keyboard controls remain available, with quiet
 hover feedback and no extra focus outlines.
 
-[Download Aion 1.3.14](https://github.com/AgarwalAarush/Flow-Personal-Releases/releases/tag/v1.3.14).
+[Download Aion 1.3.15](https://github.com/AgarwalAarush/Flow-Personal-Releases/releases/tag/v1.3.15).
 
 Workspace uses a compact titlebar and a top-right view switcher that opens on
 hover or click. Compact timer titles are read-only; edit names in the Full timer
 without an input border or text-position jump. Settings uses tighter rows and
 consistent pill states. Statistics has calendar Day, Monday–Sunday Week, Month
-and Year views in one fixed chart. Hover any column for exact details; trends
+and Year views in one fixed chart. Hover a bar for exact details; trends
 compare matching progress in the previous period. There is no search, filter
 bar or session list. All primary pages fit without
 scrolling; compact page controls keep longer collections reachable.
@@ -54,6 +54,9 @@ Downloads are ad hoc signed and **not Apple Developer ID signed or notarized**.
 Sparkle Ed25519 signatures authenticate update feeds and archives. Respect macOS
 security warnings; do not disable Gatekeeper or remove quarantine.
 
-Automatic update checks and installation default off. Active focus postpones
-update relaunch until paused or finished. The existing canonical feed remains
+Automatic update checks and installation default off. Running intervals pause
+just before an update restarts Aion and resume afterward with their remaining
+time intact; manually paused and idle timers stay paused. Downloads keep work
+running. Older installed versions may show their previous pause prompt once
+while upgrading to this release. The existing canonical feed remains
 `appcast.xml`.
