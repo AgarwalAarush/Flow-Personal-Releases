@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Aion updates</title><link>https://github.com/AgarwalAarush/Flow-Personal-Releases</link><item><title>Aion 1.3.16</title><sparkle:version>146</sparkle:version><sparkle:shortVersionString>1.3.16</sparkle:shortVersionString><sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion><description sparkle:format="plain-text">Clearer Calendar and Timeline, anchored Statistics tooltips, and a quieter chart without session export. Local development distribution; not Apple notarized.</description><enclosure url="https://github.com/AgarwalAarush/Flow-Personal-Releases/releases/download/v1.3.16/Aion-1.3.16.dmg" length="13320048" type="application/octet-stream" sparkle:edSignature="+mhvmOPRlYxF59YS3VtPnS6PvpzcCdIf8JIRbVUy9/6ioym8aoUTSygR2ZA5qPBBIHEEX0f47UpyJgQe49BICw=="></enclosure></item></channel></rss><!-- sparkle-signatures:
+edSignature: 0FXXRo8hbrvmbHcJzhTc+qgjqnT0l3/MWYmKuHnq69Pat3Wjr7+BswKzeyb/hte/NnhWIE7v2twkh5TfErmNCw==
+length: 1203
+-->
