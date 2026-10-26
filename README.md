@@ -12,8 +12,8 @@ app icon accompanies an original soft completion chime. Enable **Play a sound**
 in Settings → General; the speaker button previews it independently of alerts.
 Existing sound and appearance choices are preserved. Completion chimes also
 handle delayed background callbacks. Session notifications include a rotating
-quote and author credit from a 120-entry collection of classic excerpts and
-original lines credited to Aion.
+quote and author credit from 75 sourced productivity and motivational quotations
+by 17 published authors. The collection rotates completely before repeating.
 
 The timer stays visible when another app takes focus. Hover over the full timer
 to reveal Close, Skip, Restart, Statistics and session actions. Close hides the
@@ -26,13 +26,15 @@ hide it. Drag the empty top bar or clock to move the full timer; drag the compac
 clock to move the compact timer. Keyboard controls remain available, with quiet
 hover feedback and no extra focus outlines.
 
-[Download Aion 1.3.13](https://github.com/AgarwalAarush/Flow-Personal-Releases/releases/tag/v1.3.13).
+[Download Aion 1.3.14](https://github.com/AgarwalAarush/Flow-Personal-Releases/releases/tag/v1.3.14).
 
 Workspace uses a compact titlebar and a top-right view switcher that opens on
 hover or click. Compact timer titles are read-only; edit names in the Full timer
 without an input border or text-position jump. Settings uses tighter rows and
-consistent pill states. Statistics is one fixed chart with range controls inside
-the card, without search, filters or a session list. All primary pages fit without
+consistent pill states. Statistics has calendar Day, Monday–Sunday Week, Month
+and Year views in one fixed chart. Hover any column for exact details; trends
+compare matching progress in the previous period. There is no search, filter
+bar or session list. All primary pages fit without
 scrolling; compact page controls keep longer collections reachable.
 The Full timer is 400 × 275 pt, and interval labels are Focus, Break and Long Break.
 Tasks is the single personal task destination. Page content updates independently
