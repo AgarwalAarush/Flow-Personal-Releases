@@ -5,11 +5,12 @@ Blocking and Settings. Plan in list, board, table, calendar and timeline views,
 then start a focus session from a task. Calendar pairs a compact month with a
 readable two-line agenda; Timeline keeps dates and task rows clear.
 
-[Download Aion 1.3.17](https://github.com/AgarwalAarush/Flow-Personal-Releases/releases/tag/v1.3.17).
+[Download Aion 1.3.18](https://github.com/AgarwalAarush/Flow-Personal-Releases/releases/tag/v1.3.18).
 
 Statistics has calendar Day, Week, Month and Year views in one compact chart.
 Hover a bar for details beside it; empty dates have a quiet baseline target.
-Comparison trends remain visible. The graph has no separate detail row,
+Trend comparisons appear when the matching previous interval contains focus
+time; their help states the exact comparison window. The graph has no separate detail row,
 Daily Focus/average footer or session export. Primary pages fit without
 scrolling; compact page controls keep longer collections reachable.
 
