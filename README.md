@@ -5,13 +5,16 @@ Blocking and Settings. Plan in list, board, table, calendar and timeline views,
 then start a focus session from a task. Calendar pairs a compact month with a
 readable two-line agenda; Timeline keeps dates and task rows clear.
 
-[Download Aion 1.3.16](https://github.com/AgarwalAarush/Flow-Personal-Releases/releases/tag/v1.3.16).
+[Download Aion 1.3.17](https://github.com/AgarwalAarush/Flow-Personal-Releases/releases/tag/v1.3.17).
 
 Statistics has calendar Day, Week, Month and Year views in one compact chart.
 Hover a bar for details beside it; empty dates have a quiet baseline target.
 Comparison trends remain visible. The graph has no separate detail row,
 Daily Focus/average footer or session export. Primary pages fit without
 scrolling; compact page controls keep longer collections reachable.
+
+Aion stays out of the Dock and Command-Tab, including when Tasks, Statistics
+or Settings is open. Open it from its menu bar item, Finder or Spotlight.
 
 The Full timer is 400 × 275 pt. Hover to reveal its actions; Close hides the
 window while the timer continues. The menu bar shows the countdown and toggles
