@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Aion updates</title><link>https://github.com/AgarwalAarush/Flow-Personal-Releases</link><item><title>Aion 1.3.17</title><sparkle:version>147</sparkle:version><sparkle:shortVersionString>1.3.17</sparkle:shortVersionString><sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion><description sparkle:format="plain-text">Aion stays out of the Dock and Command-Tab while its timer and workspace remain available from the menu bar. Local development distribution; not Apple notarized.</description><enclosure url="https://github.com/AgarwalAarush/Flow-Personal-Releases/releases/download/v1.3.17/Aion-1.3.17.dmg" length="13382990" type="application/octet-stream" sparkle:edSignature="IItss6BrsDHUUKb5mXQbfOJa85Tn1HtepTkPKvo30jWbsVFVdk5uDGGR/dF+pcoma0CtZCbs8eqJ8q6qIw1lCw=="></enclosure></item></channel></rss><!-- sparkle-signatures:
+edSignature: MRCiLdg292cLE1iMDuBY08st5KV91WV7LcaTSDewcJsP74W+KovDO+ENCDFiUXXqd+PAZiNnMY/OdsHrDvFzDA==
+length: 1207
+-->
