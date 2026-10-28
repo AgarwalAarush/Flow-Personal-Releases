@@ -5,7 +5,16 @@ Blocking and Settings. Plan in list, board, table, calendar and timeline views,
 then start a focus session from a task. Calendar pairs a compact month with a
 readable two-line agenda; Timeline keeps dates and task rows clear.
 
-[Download Aion 1.3.18](https://github.com/AgarwalAarush/Flow-Personal-Releases/releases/tag/v1.3.18).
+[Download Aion 1.3.19](https://github.com/AgarwalAarush/Flow-Personal-Releases/releases/tag/v1.3.19).
+
+Time Tracker is optional and starts paused. Start or pause local tracking,
+review app time and Idle intervals, and adjust an app’s category. Idle can include
+aggregate inactivity or an inactive console session. Saved activity stays on
+this Mac; tracking does not read keystrokes, window titles or browser history.
+
+Dia playback tracking is an optional Preview for YouTube, Netflix and Prime
+Video. The setup distinguishes saved registration from a live connection.
+The Preview has not yet been verified in Dia on a compatible Mac.
 
 Statistics has calendar Day, Week, Month and Year views in one compact chart.
 Hover a bar for details beside it; empty dates have a quiet baseline target.
