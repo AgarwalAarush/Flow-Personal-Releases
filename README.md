@@ -5,18 +5,36 @@ Blocking and Settings. Plan in list, board, table, calendar and timeline views,
 then start a focus session from a task. Calendar pairs a compact month with a
 readable two-line agenda; Timeline keeps dates and task rows clear.
 
-[Download Aion 1.3.19](https://github.com/AgarwalAarush/Flow-Personal-Releases/releases/tag/v1.3.19).
+[Download Aion 1.3.20](https://github.com/AgarwalAarush/Flow-Personal-Releases/releases/tag/v1.3.20).
 
 Time Tracker is optional and starts paused. Start or pause local tracking,
 review app time and Idle intervals, and adjust an app’s category. Idle can include
 aggregate inactivity or an inactive console session. Saved activity stays on
 this Mac; tracking does not read keystrokes, window titles or browser history.
 
-Dia playback tracking is an optional Preview for YouTube, Netflix and Prime
-Video. The setup distinguishes saved registration from a live connection.
-The Preview has not yet been verified in Dia on a compatible Mac.
+A compact date capsule moves between recorded days and returns to Today.
+Grouped Work, Leisure, Watching, Other and Idle cards keep totals together
+above the daily timeline. Past days show their recorded totals; the current
+app or website appears only on Today. Days without recorded apps or websites
+say so, including days with only Idle intervals.
+
+Dia website classification is optional and remains Preview. Clicking the
+extension action can request website metadata access; declining keeps restricted
+YouTube, Netflix and Prime Video support. Only the active public hostname is
+saved, never titles, full URLs or browsing history. Media probes stay limited to
+the supported HTTPS streaming sites. Private windows are excluded. Actual Dia
+permission, website and playback behavior remains unverified on a compatible Mac.
+
+Google search, ChatGPT, Gemini and common development/research sites default to
+Work. Reddit, games and gaming-related browsing use Leisure; this describes the
+category of activity, not proof of gameplay. Personal website rules take priority
+over browser/app defaults. Known work apps and public application categories also
+supply defaults, without matching app display names. Existing Gaming history and
+rules keep their stored identity under the new Leisure label.
 
 Statistics has calendar Day, Week, Month and Year views in one compact chart.
+Browse previous periods, then return to the current live range. A date-navigation
+capsule, bold D/W/M/Y selector and compact metric cards keep the chart readable.
 Hover a bar for details beside it; empty dates have a quiet baseline target.
 Trend comparisons appear when the matching previous interval contains focus
 time; their help states the exact comparison window. The graph has no separate detail row,
@@ -30,6 +48,12 @@ The Full timer is 400 × 275 pt. Hover to reveal its actions; Close hides the
 window while the timer continues. The menu bar shows the countdown and toggles
 the window. Use **⌘1** to show the timer, **⌘2** to switch Full ↔ Compact and
 **⌘W** to hide it. Compact titles are read-only; edit names in Full.
+
+View shortcuts follow the switcher order: ⌘3 Tasks, ⌘4 Today, ⌘5 Inbox,
+⌘6 Completed, ⌘7 Time Tracker, ⌘8 Statistics and ⌘9 Blocking. Settings remains
+⌘, and Keyboard Shortcuts is ⇧⌘/. Owned editors and sheets retain their save and
+cancel behavior. Session Rhythm selectors and automatic-start settings have more
+internal padding while keeping their compact layouts.
 
 Light and dark appearances, reduced motion and native keyboard controls are
 supported. The original completion chime is controlled by **Play a sound** in
