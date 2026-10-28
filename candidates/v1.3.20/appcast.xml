@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Aion updates</title><link>https://github.com/AgarwalAarush/Flow-Personal-Releases</link><item><title>Aion 1.3.20</title><sparkle:version>150</sparkle:version><sparkle:shortVersionString>1.3.20</sparkle:shortVersionString><sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion><description sparkle:format="plain-text">Optional website classification in Dia Preview, historical Statistics navigation, ordered view shortcuts and refined settings. Local development distribution; not Apple notarized.</description><enclosure url="https://github.com/AgarwalAarush/Flow-Personal-Releases/releases/download/v1.3.20/Aion-1.3.20.dmg" length="14103216" type="application/octet-stream" sparkle:edSignature="RVYbNEn40+2xb+yvItKC0MSa/ILvVKZLdhu3IUNwTw8Z8IGGNpbFnCc1Syv5oF56VP+HBD8YP8JBED08l8gcAA=="></enclosure></item></channel></rss><!-- sparkle-signatures:
+edSignature: k7jNtTau+GhOTMBVrS51AYK8IyKelzJ3Qssi8YyfAChNKTGYfGThjfxsJ1PIkG/I+H/wj6zUSSpGgvduD5UABw==
+length: 1225
+-->
