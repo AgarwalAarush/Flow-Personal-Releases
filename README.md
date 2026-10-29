@@ -5,13 +5,15 @@ Blocking and Settings. Plan in list, board, table, calendar and timeline views,
 then start a focus session from a task. Calendar pairs a compact month with a
 readable two-line agenda; Timeline keeps dates and task rows clear.
 
-[Download Aion 1.3.22](https://github.com/AgarwalAarush/Flow-Personal-Releases/releases/tag/v1.3.22).
+[Download Aion 1.3.23](https://github.com/AgarwalAarush/Flow-Personal-Releases/releases/tag/v1.3.23).
 
 Time Tracker is optional and starts paused. Start or pause local tracking,
 review app time and Idle intervals, and adjust an app’s category. Idle can include
 aggregate inactivity or an inactive console session. Saved activity stays on
 this Mac; tracking does not read keystrokes, window titles or browser history.
 
+Time Tracker keeps same-year date labels concise. Its setup presents only the next
+needed permission or connection action, while existing completed setup stays complete.
 A compact date capsule moves between recorded days and returns to Today.
 Grouped Work, Leisure, Watching, Other and Idle cards keep totals together
 above the daily timeline. Apps & Websites is one continuous list: scroll inside
@@ -48,6 +50,10 @@ Trend comparisons appear when the matching previous interval contains focus
 time; their help states the exact comparison window. The graph has no separate detail row,
 Daily Focus/average footer or session export. Primary pages fit their windows. Time Tracker keeps scrolling inside its app
 list; other long collections retain compact page controls.
+
+Blocking uses a compact setup card with actions appropriate to the current state;
+app selection keeps local artwork loading separate from interaction. Existing
+blocking helper installation, access and saved selections remain in place.
 
 Aion stays out of the Dock and Command-Tab, including when Tasks, Statistics
 or Settings is open. Open it from its menu bar item, Finder or Spotlight.
