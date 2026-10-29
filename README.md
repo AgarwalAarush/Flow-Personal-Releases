@@ -5,7 +5,7 @@ Blocking and Settings. Plan in list, board, table, calendar and timeline views,
 then start a focus session from a task. Calendar pairs a compact month with a
 readable two-line agenda; Timeline keeps dates and task rows clear.
 
-[Download Aion 1.3.20](https://github.com/AgarwalAarush/Flow-Personal-Releases/releases/tag/v1.3.20).
+[Download Aion 1.3.21](https://github.com/AgarwalAarush/Flow-Personal-Releases/releases/tag/v1.3.21).
 
 Time Tracker is optional and starts paused. Start or pause local tracking,
 review app time and Idle intervals, and adjust an app’s category. Idle can include
@@ -18,12 +18,16 @@ above the daily timeline. Past days show their recorded totals; the current
 app or website appears only on Today. Days without recorded apps or websites
 say so, including days with only Idle intervals.
 
-Dia website classification is optional and remains Preview. Clicking the
-extension action can request website metadata access; declining keeps restricted
-YouTube, Netflix and Prime Video support. Only the active public hostname is
-saved, never titles, full URLs or browsing history. Media probes stay limited to
-the supported HTTPS streaming sites. Private windows are excluded. Actual Dia
-permission, website and playback behavior remains unverified on a compatible Mac.
+Dia website classification is optional and remains Preview. Basic classification
+uses native Accessibility and Automation access, enabled explicitly from Connect
+Dia. It requires no browser extension. Accessibility reads only the focused
+window identifier; Automation reads the selected tab only in the matching normal
+window. Unknown windows skip website capture. Focused incognito time is Leisure
+without reading its tabs. Only normalized hostnames are saved, never titles,
+full URLs, queries or browsing history. App and Idle tracking work without these
+optional permissions. The companion remains optional for video playback checks
+on supported streaming sites. Continuous integration in the released app on a
+compatible Dia Mac remains unverified; the identifier contract was owner-reported.
 
 Google search, ChatGPT, Gemini and common development/research sites default to
 Work. Reddit, games and gaming-related browsing use Leisure; this describes the
