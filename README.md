@@ -5,7 +5,7 @@ Blocking and Settings. Plan in list, board, table, calendar and timeline views,
 then start a focus session from a task. Calendar pairs a compact month with a
 readable two-line agenda; Timeline keeps dates and task rows clear.
 
-[Download Aion 1.3.21](https://github.com/AgarwalAarush/Flow-Personal-Releases/releases/tag/v1.3.21).
+[Download Aion 1.3.22](https://github.com/AgarwalAarush/Flow-Personal-Releases/releases/tag/v1.3.22).
 
 Time Tracker is optional and starts paused. Start or pause local tracking,
 review app time and Idle intervals, and adjust an app’s category. Idle can include
@@ -14,7 +14,11 @@ this Mac; tracking does not read keystrokes, window titles or browser history.
 
 A compact date capsule moves between recorded days and returns to Today.
 Grouped Work, Leisure, Watching, Other and Idle cards keep totals together
-above the daily timeline. Past days show their recorded totals; the current
+above the daily timeline. Apps & Websites is one continuous list: scroll inside
+its card while the rest of the page stays fixed. Installed app artwork and
+bundled website icons identify each entry without icon-network requests.
+Category controls and navigation buttons respond across their visible cards.
+Past days show their recorded totals; the current
 app or website appears only on Today. Days without recorded apps or websites
 say so, including days with only Idle intervals.
 
@@ -42,8 +46,8 @@ capsule, bold D/W/M/Y selector and compact metric cards keep the chart readable.
 Hover a bar for details beside it; empty dates have a quiet baseline target.
 Trend comparisons appear when the matching previous interval contains focus
 time; their help states the exact comparison window. The graph has no separate detail row,
-Daily Focus/average footer or session export. Primary pages fit without
-scrolling; compact page controls keep longer collections reachable.
+Daily Focus/average footer or session export. Primary pages fit their windows. Time Tracker keeps scrolling inside its app
+list; other long collections retain compact page controls.
 
 Aion stays out of the Dock and Command-Tab, including when Tasks, Statistics
 or Settings is open. Open it from its menu bar item, Finder or Spotlight.
