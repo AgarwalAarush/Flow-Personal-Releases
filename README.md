@@ -5,14 +5,17 @@ Blocking and Settings. Plan in list, board, table, calendar and timeline views,
 then start a focus session from a task. Calendar pairs a compact month with a
 readable two-line agenda; Timeline keeps dates and task rows clear.
 
-[Download Aion 1.3.23](https://github.com/AgarwalAarush/Flow-Personal-Releases/releases/tag/v1.3.23).
+[Download Aion 1.3.24](https://github.com/AgarwalAarush/Flow-Personal-Releases/releases/tag/v1.3.24).
 
 Time Tracker is optional and starts paused. Start or pause local tracking,
 review app time and Idle intervals, and adjust an app’s category. Idle can include
 aggregate inactivity or an inactive console session. Saved activity stays on
 this Mac; tracking does not read keystrokes, window titles or browser history.
 
-Time Tracker keeps same-year date labels concise. Its setup presents only the next
+Time Tracker keeps same-year date labels concise. Select a category card to inspect
+its recorded app and website time, then clear the selection to show everything.
+Inspect the daily timeline for a nearby interval duration and category. Future
+category corrections leave recorded activity intact. Setup presents only the next
 needed permission or connection action, while existing completed setup stays complete.
 A compact date capsule moves between recorded days and returns to Today.
 Grouped Work, Leisure, Watching, Other and Idle cards keep totals together
@@ -45,15 +48,20 @@ rules keep their stored identity under the new Leisure label.
 Statistics has calendar Day, Week, Month and Year views in one compact chart.
 Browse previous periods, then return to the current live range. A date-navigation
 capsule, bold D/W/M/Y selector and compact metric cards keep the chart readable.
-Hover a bar for details beside it; empty dates have a quiet baseline target.
+Hover a bar for total, session count and completed/interrupted durations beside
+it; empty dates have a quiet baseline target. Same-year dates omit the redundant
+year. Empty historical ranges offer a direct return to the current period.
 Trend comparisons appear when the matching previous interval contains focus
 time; their help states the exact comparison window. The graph has no separate detail row,
 Daily Focus/average footer or session export. Primary pages fit their windows. Time Tracker keeps scrolling inside its app
 list; other long collections retain compact page controls.
 
-Blocking uses a compact setup card with actions appropriate to the current state;
-app selection keeps local artwork loading separate from interaction. Existing
-blocking helper installation, access and saved selections remain in place.
+Blocking keeps saved rules and setup actions in compact cards, with controls that
+reflect the current state. Existing helper installation, access and saved selections
+remain in place. App and known website entries use local artwork. Pause appears while rules are
+actively blocking, and Resume remains available during a snooze. Website entry
+keeps validation beside the draft and reveals an existing duplicate without
+adding another saved rule.
 
 Aion stays out of the Dock and Command-Tab, including when Tasks, Statistics
 or Settings is open. Open it from its menu bar item, Finder or Spotlight.
